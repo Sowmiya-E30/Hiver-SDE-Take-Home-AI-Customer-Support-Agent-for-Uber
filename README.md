@@ -39,6 +39,7 @@ Escalation Rules
        |
        v
 Final Support Response
+```
 
 ## Failure Analysis
 
