@@ -1,0 +1,610 @@
+message,actual_intent,predicted_intent,intent_correct,reply,escalate,reason
+@Uber_Support I left my work phone in my Uber and the driver has not set up his voicemail. Is there a way to text him ASAP?,LOST_ITEM,LOST_ITEM,True,"@Uber_Support, I'm sorry to hear about your phone being left in your Uber. Our team has recently handled similar situations. Please try to contact the driver through the app as soon as possible. We're here to assist you. If you need any further assistance, please don't hesitate to contact our support team.",False,The issue appears suitable for an automated first response.
+@115873 left my phone in 1 of u cars &amp; i can see on find my iphone exactly where it is but you dont have a fucking contact number what do i do,LOST_ITEM,LOST_ITEM,True,"@115873, thank you for reaching out. I'm currently unable to assist with your issue. Please contact your driver to proceed with finding your iPhone. If you need further assistance, please feel free to reach out.",False,The issue appears suitable for an automated first response.
+@115877 not fair! Want my doughnuts 😳😣 https://t.co/T7o80Y56IX,UBER_EATS_ORDER,SUPPORT_CONTACT,False,"@115877, I'm sorry to hear that. We're here to help you. Is there a specific issue or problem you're encountering with your order? If you need assistance, please feel free to ask.",False,The issue appears suitable for an automated first response.
+The most impressive part about @115873 is how their drivers literally cannot follow simple directions. Unreal.,DRIVER_PROBLEM,DRIVER_PROBLEM,True,"Hello there, @115873! Thank you for reaching out to us. We're here to help and appreciate the feedback you've shared. Can you please describe the issue you're experiencing with the driver's driving skills, and if possible, provide a screenshot or a screen recording if possible? This will help us better understand the situation and take the necessary steps to resolve it.",True,The issue requires case-specific investigation or account/payment review.
+"@Uber_Support no reason why ppl say, uber sucks in service, though being cheaper than @151419 @1143",SUPPORT_CONTACT,REFUND_REQUEST,False,"Hello, I'm a customer support representative for Uber. I'll be glad to assist you with your concern. Could you please provide more details about the issue you're facing and any relevant information?",True,The issue requires case-specific investigation or account/payment review.
+"@Uber_Support hi, i am going to New York from sf and want to drive in there, how can I see rental services and plans through uber platform, and add on my account to drive, can you help me out with this, thank you",DRIVER_PROBLEM,DRIVER_PROBLEM,True,"@Uber_Support, thanks for reaching out to us. To help you, I'll need to follow these steps:
+
+1. Send a note to @293525 at https://t.co/FF2YGTGjuA.
+2. We'll follow up on the note.
+
+I'll do that and then get back to you.
+
+Best,
+[Your Name]",True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support someone just tried to hack my Uber account and you assholes have no service number to call. Shame on you. Hope you go out of business,ACCOUNT_HACKED,ACCOUNT_HACKED,True,"@Uber_Support, I am an Uber customer. I just tried to hack my account and you assholes have no service number to call. Shame on you. Hope you go out of business.",True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support why was i charged $1 to add a new card to my account?,FARE_CHARGED_WRONG,FARE_CHARGED_WRONG,True,"Hello, thank you for reaching out. I'm here to help. Please DM us your payment method and account details so we can connect.",True,The issue requires case-specific investigation or account/payment review.
+"@Uber_Support  I took a trip from SARITA VIHAR METRO STATION for SAGARPUR at 11:30 PM. After the trip, I forgot to collect my Samsung Galaxy tab A 8.0 in the WAGON R car which was inserted in the Driver's charging port. I am consistently calling the driver but he is not picking.",LOST_ITEM,LOST_ITEM,True,"Hello, I'm sorry to hear that you're having trouble with your Samsung Galaxy tab A 8.0. Can you please provide me with the contact information for the driver so we can assist you better?",False,The issue appears suitable for an automated first response.
+"Yo, straight up, @115873 can suck an egg. Worst company when trying to solve any issues. Their emails seem automated, you get a different “member” replying to each one, and it’s the ONLY company in America that doesn’t have a single number to call w issues. #overit #hilyft",SUPPORT_CONTACT,UBER_EATS_ORDER,False,"Hello @115873, thank you for reaching out to us. Our service is designed to handle issues quickly and efficiently. If you have any questions or concerns, please feel free to reach out to us. We are here to assist you.",False,The issue appears suitable for an automated first response.
+My uber just hit someone,DRIVER_PROBLEM,LOST_ITEM,False,"@358130, I'm really sorry to hear about the accident. Could you please send us your email address so we can connect? We're here to help and ensure that your Uber experience is safe and comfortable for you.",False,The issue appears suitable for an automated first response.
+@115873 wtf is this??My Uber was stuck like this for about 15 minutes no movement or anything so I cancel and close the app to see if it’ll help and you give me the same exact driver gets stuck again I cancel again GIVES ME THE SAME DRIVER AGAIN AND CHARGED ME FOR CANCELLING TWICE https://t.co/BwE3QMYJSw,CANCELLATION_FEE,CANCELLATION_FEE,True,"Hello, I'm @115873. I’m having trouble with my Uber ride. It’s been stuck for about 15 minutes without any movement or communication with the driver. I've already canceled the ride and tried to close the app again, but I'm still facing the same issue. It seems like the driver is still on a waitlist. I'll need to contact our support team to figure out the problem and resolve it. Thanks for your help! 😊",True,The issue requires case-specific investigation or account/payment review.
+"@115873 is so fraud to their loyal customers. They get like 20% of my yearly income cause I’m an Uber queen, but they don’t send me any promos, meanwhile my friend just got 50% off 10 rides applied to her account this week for absolutely no reason. Please explain @Uber_Support",PROMO_DISCOUNT,PROMO_DISCOUNT,True,"Hello @115873, thank you for your feedback. We're sorry to hear that you're experiencing this issue. We'd be happy to provide you with the information you need to resolve this problem.",True,The message indicates a potentially sensitive safety or security issue.
+"@Uber_Support 
+I left my phone in an uber taxi this morning. I cannot contact the driver as his number is on my phone. What do I do?",LOST_ITEM,LOST_ITEM,True,"@Uber_Support
+I'm sorry to hear that you have left your phone in an Uber taxi. Please try contacting your driver's contact information by phone or email to see if they can help you.
+
+If your phone was not found, please try entering the address of your current location in the app, and if the driver still cannot find it, please try calling their number. If you have not received a response from the driver after 20 minutes, you can contact our customer service team for further assistance.
+
+Thank you for your patience and help.
+
+Best regards,
+Uber Customer Support Team",False,The issue appears suitable for an automated first response.
+"shoutout to @115873 for implementing a new rating system that really benefits us drivers 👌🏻
+literally yesterday i gave feedback on my app that i’d like clearer reasons for low ratings. i’ve got ONE one star trip and i have zero idea why 😭",DRIVER_PROBLEM,DRIVER_PROBLEM,True,Hello! Thanks for sharing your experience with us. I apologize for the confusion. We're here to help! Could you please provide more details about the feedback you had earlier and how it relates to the rating system changes? This information will help us understand the issue better.,True,The issue requires case-specific investigation or account/payment review.
+Drivers have been cancelling my trips over the past two days and you are charging me cancellation fees @115873. Get a helpline !,CANCELLATION_FEE,CANCELLATION_FEE,True,Hello! I am here to help you resolve any issues with your Uber trip cancellations. Can you provide me with more details about the cancellation fees and the recent cancellations? This will help me provide the best support for you.,True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support Your issue submission form requires a photo even though it says it isn't necessary. I have supplied a suitable image. https://t.co/kuIIdBAp8e,UBER_EATS_ORDER,SUPPORT_CONTACT,False,"Hello, I'm @Uber_Support. Thank you for contacting us with your issue submission form. Unfortunately, it seems that the form doesn't require a photo, even though it's not necessary. I'll need a photo of your vehicle or a screenshot of your issue description. Please send me the necessary details so we can proceed with the support.",False,The issue appears suitable for an automated first response.
+"@115873 @116288 @Uber_Support 
+What the hell is this? 3223 for Pool? From HiTech City to Uppal
+#HyderabadRains @38949 https://t.co/8XpjW4OcOV",FARE_CHARGED_WRONG,LOST_ITEM,False,"Hello! Thank you for reaching out to us. It appears that you have some unexpected fare information. We'll check with our platform and inform you soon. For now, please let us know if you have any other questions or concerns.",False,The issue appears suitable for an automated first response.
+"@115873 needs to chill with these fares are increased due to high demand, my destination 13 mins away and they are charging basically 2 dollars a minute 😑😑😑😑",FARE_CHARGED_WRONG,FARE_CHARGED_WRONG,True,"Hello @115873,
+
+Thank you for reaching out. I'm sorry to hear about the increased fares on the ride to 13 minutes away. We understand that there may be some confusion regarding the current rates.
+
+To assist you better, can you please provide me with the following details:
+1. The current fare for the ride to 13 minutes away.
+2. The driver's availability.
+3. The estimated driving time.
+
+Once I have these details, I will be able to provide you with a more accurate estimate of the fare. Meanwhile, we suggest staying in touch with us through the contact information provided to ensure you receive the most accurate information.
+
+Please let me know how I can assist you further.
+
+Best regards,
+[Your Name]  
+Uber Support Team",True,The issue requires case-specific investigation or account/payment review.
+"@Uber_Support I travelled from Mumbai airport to Anushakti nagar on 2nd oct with Your Uber at 857 am:
+MH47N5118.
+Driver ph #
++918793778348;
+It was a cash trip and he collected 100 rs more than the trip fare of 390. He stated that as parking fee. The receipt is for 390..Is it ok?",FARE_CHARGED_WRONG,DRIVER_PROBLEM,False,"@Uber_Support Thank you for reaching out. To address your concern, I will follow up via phone to clarify any issues with the booking and the driver's actions. Please reach out to us if you have any questions or need assistance with your booking.",True,The issue requires case-specific investigation or account/payment review.
+"@115873 charged £5 when I didn’t cancel, my driver didn’t show up and then the trip disappeared, whaaat?!",CANCELLATION_FEE,CANCELLATION_FEE,True,"Hi @115873, thank you for contacting us. I'm sorry to hear that you had an issue with our service. Please follow these steps to get a refund:
+
+1. Follow the provided link: https://t.co/h840Iouehc and our team will be in touch.
+2. Send us a note at: https://t.co/1xM0TILvAI, and our team will be in touch.
+
+Please provide us with the details of your issue so we can assist you further.",True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support I accidentally started a trip without picking up the rider. Therefore they were charged. Can you help,FARE_CHARGED_WRONG,DRIVER_PROBLEM,False,"@395870
+Thank you for reaching out to us. We're here to help. Please provide the details of the issue, and we'll follow up with the appropriate action.",True,The issue requires case-specific investigation or account/payment review.
+@115873 from shoreditch to Holloway - wtf is this https://t.co/IbCBSXaWiy,FARE_CHARGED_WRONG,UBER_EATS_ORDER,False,"Hello there, @115873! Thank you for your patience while we handle your Uber order. I apologize for any confusion, but we need more information from you to proceed. Could you please provide your email address and any other details you might have so we can connect you?",False,The issue appears suitable for an automated first response.
+"@115873 resolved my issues this morning. However, JUST LOOKED AT MY BANK ACCOUNT AND THE $250 is OUT OF MY ACCOUNT AGAIN. WTF. DONT USE UBER",FARE_CHARGED_WRONG,ACCOUNT_HACKED,False,"@115873, I'm really sorry to hear about your issues. Please provide your email address so we can follow up.",True,The issue requires case-specific investigation or account/payment review.
+"@Uber_Support ""heading in the same direction"" I don't think y'all know what that means... https://t.co/EpDAT6G6Jl",DRIVER_PROBLEM,SUPPORT_CONTACT,False,"Customer support reply:
+
+@115873, I apologize for any confusion. It appears you are experiencing a driver being instructed to go in the opposite direction. I will send you a note through this link: https://t.co/iOszeeHZhQ, and we will follow up with the driver. Please remember to follow up with your specific issue or any additional questions. Thanks!",False,The issue appears suitable for an automated first response.
+"@115873 needs to hire drivers that know how to drive in the city, I’m so upset",DRIVER_PROBLEM,SUPPORT_CONTACT,False,"@115873, thank you for reaching out to us. We are here to assist you with your concerns regarding drivers in the city. Please send us a note via https://t.co/fS660rQ8NQ so we can connect with you.",False,The issue appears suitable for an automated first response.
+@115873 used to have such helpful customer service. Looks like that has taken a turn for the worst like the rest of uber. @Uber_Support,SUPPORT_CONTACT,SUPPORT_CONTACT,True,"@115873, I'm sorry to hear that our customer service has taken a turn for the worst. Please DM us any additional information so we can assist you further.",False,The issue appears suitable for an automated first response.
+"@115873 my account was hacked, couldn’t send a report via email, my account was disabled. 8.5 hours, no customer support help. 😥",ACCOUNT_HACKED,ACCOUNT_HACKED,True,"@115873
+I'm sorry to hear about your account being hacked and disabled. We'll investigate the issue with your account as soon as possible. Please send us a note at https://t.co/Md7v036OoC so our team can connect. If you have any issues or questions, don't hesitate to contact our customer support team. We're here to help. 😊",True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support please update my driver profile insurance info. https://t.co/1EBIzwbkII,DRIVER_PROBLEM,SUPPORT_CONTACT,False,"@Uber_Support, thank you for reaching out. We've reviewed your update and will be in touch via in-app support shortly. If you have any further questions or concerns, please don't hesitate to contact us.",False,The issue appears suitable for an automated first response.
+@Uber_Support __email__,SUPPORT_CONTACT,REFUND_REQUEST,False,"Hello! I'm here to help with any issues you might be facing. For the time being, we can send you a reminder to check your email and confirm your trip. If you haven't received the email, please try again.",True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support What is your DM?,SUPPORT_CONTACT,CANCELLATION_FEE,False,Hello! Thank you for contacting Uber. We apologize for any inconvenience caused. Could you please DM us directly through your phone or via this link? https://t.co/sd7yH5jmbJ. We will respond soon.,True,The issue requires case-specific investigation or account/payment review.
+Hi @115877 going for first time order with code on flyer which says valid through 31/12/17 but it says it’s expired 🤔 help?,PROMO_DISCOUNT,FARE_CHARGED_WRONG,False,"Hello, I'm new to Uber. My order with code expired on the flyer but it's valid through December 17. How can I get the code to continue using it?",True,The issue requires case-specific investigation or account/payment review.
+"@Uber_Support Yeah, I already did that. I’m just waiting to hear back from someone...",SUPPORT_CONTACT,RIDE_PROBLEM,False,@253466 We can definitely take a look! Send us a DM with your email address so we can follow up.,False,The issue appears suitable for an automated first response.
+"My uber Driver is currently falling asleep at the wheel, thank you @115873 for always providing me with attentive, efficient drivers 😐",DRIVER_PROBLEM,DRIVER_PROBLEM,True,"Dear @115873,
+
+Thank you for your prompt and attentive response. We appreciate your help during this challenging time.
+
+I will send you a note via the provided link to inform you about the situation with your driver. We will also provide you with a detailed report of the driver's performance and make necessary adjustments to ensure safe and efficient driving.
+
+Once again, thank you for your understanding and assistance.
+
+Best regards,
+
+[Your Name]",True,The issue requires case-specific investigation or account/payment review.
+"@115873 i randomly got a text saying ""enter uber code #### to continue"" but i havent used uber in months so what is this about",ACCOUNT_HACKED,SUPPORT_CONTACT,False,"Hello, I'm having trouble with a text message saying ""enter Uber code #### to continue"". Could this be a scam or a legitimate Uber service request?",False,The issue appears suitable for an automated first response.
+"Be warned, if you take an @115873 in Argentina, and your trip is AR$ 100, you will be charged U$S 100, use cash or don't use it at all.",FARE_CHARGED_WRONG,FARE_CHARGED_WRONG,True,"I'm sorry to hear that you're having trouble with the @115873 service in Argentina. If you want to avoid using it, please let me know so we can work together to find an alternative.
+
+Best regards,  
+Uber Support",True,The issue requires case-specific investigation or account/payment review.
+@115873 I swear if you ever put me in a car with the last driver who literally put me in a gas station parking lot after we asked him to stop texting and driving I will never use your service again. Dude was dangerous. Scary stuff.,DRIVER_PROBLEM,DRIVER_PROBLEM,True,"@115873 I'm sorry to hear about the unsafe situation. If you're in a gas station parking lot, we recommend using the nearest exit or exit ramp. Let me know if you need any further assistance.",True,The issue requires case-specific investigation or account/payment review.
+"@115873 my driver called multiple times asking where I was going, so that he could see if picking me up was worth it or not...",DRIVER_PROBLEM,SUPPORT_CONTACT,False,"@115873, thank you for reaching out to us. We appreciate your patience and understanding.
+
+You have already called us multiple times to inquire about your location, and we are currently taking this query into consideration. However, we must clarify that we are unable to provide you with immediate assistance at this time.
+
+If you are experiencing issues with your pickup location, please contact our customer service team directly by phone or email. They can provide you with more detailed information and assistance.
+
+Once we are able to provide more immediate assistance, we will take the necessary steps to ensure your safety and resolve any potential issues that may arise. Thank you for your patience and understanding.
+
+Best regards,
+
+[Your Name]
+Uber Support Team",False,The issue appears suitable for an automated first response.
+@Uber_Support have the guts to say here why r u saying in its not showing in credit better convert it,FARE_CHARGED_WRONG,ACCOUNT_HACKED,False,"@Uber_Support @115873, I'm sorry to hear about your issues with your Uber account. I'm here to assist you with any questions or concerns you may have. Please let me know if you need any assistance or if you would like to discuss a specific issue.",True,The issue requires case-specific investigation or account/payment review.
+"@115873 guys I booked one ride, you booked 2 from your side. Now, one I took, second I cancelled, now my active ride is not on the map. And im charged cancellation?  Eh?",CANCELLATION_FEE,CANCELLATION_FEE,True,"@708198, thank you for reaching out to us. We appreciate your concerns. Could you please send us the trip details and the specific details of your ride? This will help us better assist you.",True,The issue requires case-specific investigation or account/payment review.
+@115873 OK well I love your service until 14 yr old girls can get 20 miles away? Find her b4 i do. This is not cool Uber,DRIVER_PROBLEM,CANCELLATION_FEE,False,"@115877  
+I understand the concern. Can you provide me with your contact information and email address so we can connect? Thank you.",True,The issue requires case-specific investigation or account/payment review.
+"@115873 you've unfairly charged me £10 and now your auto-responded says that you cant help, because it is was longer then 30 days ago?",FARE_CHARGED_WRONG,FARE_CHARGED_WRONG,True,"@115873, thank you for reaching out to us about your Uber experience. I apologize that our support system did not respond as expected. I would be happy to assist you further and ensure your ticket is processed according to our policies.
+
+Please provide more details about the issue so we can take the necessary action. Is there anything specific that we need to address or follow up on?",True,The issue requires case-specific investigation or account/payment review.
+@115873 Seriously I️ need a refund or something 🤨🤨,REFUND_REQUEST,REFUND_REQUEST,True,Hello! Thank you for reaching out. I'm here to assist you. Could you please provide more details about the issue you're experiencing and any specific steps you've taken so we can better understand the situation?,True,The issue requires case-specific investigation or account/payment review.
+"@Uber_Support Can't request a ride. ""There was an error processing your request. If this continues visit help.uber"" please help",APP_PROBLEM,RIDE_PROBLEM,False,"@Uber_Support,
+
+I'm sorry to hear about the issue. Could you please send me a note via your preferred method (e.g., phone, email)? I'll follow up with you when I have a solution.
+
+Thank you for your assistance.
+
+Best regards,
+[Your Name]",False,The issue appears suitable for an automated first response.
+@Uber_Support I have sent this to you,SUPPORT_CONTACT,RIDE_PROBLEM,False,@Uber_Support You have sent your message to our team. Please review your messages for our response.,False,The issue appears suitable for an automated first response.
+@Uber_Support I am traveling overseas and had to get a new phone.....now cannot open the app because it keeps sending a verification code to my US phone what is not roaming.....am in Australia presently --but cannot use uber,LOGIN_ACCOUNT_ACCESS,LOGIN_ACCOUNT_ACCESS,True,Hello! I'm here to help you with your Uber account. Can you provide me with your phone number so we can check if it's still registered with us?,False,The issue appears suitable for an automated first response.
+"@Uber_Support You must have not understood the ""can't find anywhere on the app"" part don't you think I've been doing that for the last hour? Clunky",SUPPORT_CONTACT,REFUND_REQUEST,False,"@547374, I apologize for the inconvenience. I'm here to help. Could you please send us the note you provided at the following link? https://t.co/balq3Eyso6. We'll be happy to assist you further. Thank you for your understanding.",True,The issue requires case-specific investigation or account/payment review.
+"Someone stole my credit card number and spent over $70 worth of ubereats last night on it. I hope they enjoyed their food. 
+#thegreglife",ACCOUNT_HACKED,FARE_CHARGED_WRONG,False,"Hello, thank you for reaching out to us about our service. We are here to help. Please, send us a note via the link provided, and we will get back to you as soon as possible with our response.",True,The issue requires case-specific investigation or account/payment review.
+Tell me how Uber changed my fare and charged me $15.23 cause I asked my driver to drive half a mile to the next stop light tf @Uber_Support,FARE_CHARGED_WRONG,SUPPORT_CONTACT,False,"@115873, our drivers are known for being very patient. Please let us know if you need any assistance or if you have any further questions. We are happy to assist you.",False,The issue appears suitable for an automated first response.
+"@Uber_Support Hey Uber, I ordered food and the order was entirely wrong. I paid $30 and was only refunded $1.50 and I can't find out how to re-open that support request.",UBER_EATS_ORDER,REFUND_REQUEST,False,"@Uber_Support Hey Uber, I ordered food and the order was entirely wrong. I paid $30 and was only refunded $1.50 and I can't find out how to re-open that support request.
+
+Detected intent: REFUND_REQUEST
+
+Historical Uber support examples:
+
+Example 1: @Uber_Support Hey Uber, I ordered food and the order was entirely wrong. I paid $30 and was only refunded $1.50 and I can't find out how to re-open that support request.
+Uber Support: @739979 We can definitely take a closer look! Please send us a DM with your email address so we can follow up.
+
+Example 2: @Uber_Support Your open support is not providing me the invoice.
+Uber Support: @388171 We apologize for the trouble! We're currently reviewing your email and will connect right away.
+
+Example 3: @Uber_Support Hey Uber, ordered UberEats for 9 ppl 2nite, money has come out but my Uber account has been disabled. Help me feed my friends?
+Uber Support: @427451 Hey, Nathan. Please send us a DM with your account email address + details and we'll connect.
+
+Example 4: @Uber_Support I just ordered my first food order and I received the wrong food. The driver has taken back the order what do I do?
+Uber Support: @363175 We're here to help! Please send us a DM with your UberEATS account email address and phone number.
+
+Example 5: @Uber_Support Hey I am here
+Uber Support: @157414 Please DM us specific details of your concern together with your email address, so we can better assist you.",True,The issue requires case-specific investigation or account/payment review.
+@115873 last night the driver stole my friend's phone and venmoed himself $300 from her account to his and you call that innocent?disturbing,ACCOUNT_HACKED,LOST_ITEM,False,"@115873, I'm sorry to hear that your friend's phone was stolen. Please contact us via our official website or app for assistance. Thank you for your feedback.",False,The issue appears suitable for an automated first response.
+@Uber_Support  why didn't I get them https://t.co/c64dX0Blvy,PROMO_DISCOUNT,LOST_ITEM,False,@695859 Thank you for your feedback. We appreciate your patience and understanding. Please let me know if there's anything else I can assist you with.,False,The issue appears suitable for an automated first response.
+"@Uber_Support Hi, so far no one contacted me for this issue..just few replies again the standard ones, I hope a quick resolution on this. Please escalate.",SUPPORT_CONTACT,SUPPORT_CONTACT,True,"@Uber_Support Hi, thank you for reaching out to us. We appreciate your patience and understanding. After reviewing your inquiry, we will follow up via email with a brief response. We will also monitor your support requests and update you as soon as we have a response. Please keep us updated on your progress.",False,The issue appears suitable for an automated first response.
+@115877 @137317 yo wtf where my dip and straws man 30 mins late and aint even give me my sweet n sour or some shit to drink my fanta,UBER_EATS_ORDER,LOST_ITEM,False,"Customer: @115877 30+ mins late and still says 20 mins away. Restaurant said it was prepped ages ago. So now it'll be late and shit...🤬
+
+Uber Support: @420737 We're here to help. Can you please send us a DM so we can connect.",False,The issue appears suitable for an automated first response.
+@Uber_Support also why do I KEEP getting charged waiting charges when I'm always ready as soon as the driver pulls up?,FARE_CHARGED_WRONG,CANCELLATION_FEE,False,"Hello @Uber_Support,
+
+Thank you for your assistance. I am writing to inform you that I am having an issue with the waiting charges being charged as I am always ready as soon as the driver pulls up. I have provided the note you previously sent me and will follow up with you shortly.
+
+Best regards,
+[Your Name]",True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support hey guys signed up for uber eats over a month ago still heard nothing back could you assisst me thank you https://t.co/yYXAVDEe1w,UBER_EATS_ORDER,UBER_EATS_ORDER,True,"@761406, Bennie! Please fill out the form at the bottom of this page;  https://t.co/41EELWKjnd and we'll be in touch shortly.",False,The issue appears suitable for an automated first response.
+@115873 @Uber_Support Here is the latest example of how you screw the drivers on fares.please explain why I make &lt;50% fare and Uber makes more https://t.co/R5dlAkKcKN,FARE_CHARGED_WRONG,FARE_CHARGED_WRONG,True,"Hello @115873,
+
+Thank you for reaching out to us. I'm sorry to hear that you are encountering issues with fare calculations on the platform. The issue you are experiencing is indeed a common complaint among users, and it's important to address it promptly.
+
+Could you please share more details about the fare you are referring to? Additionally, if you have any specific concerns or questions, please feel free to share them. We are here to assist you effectively.
+
+Please let us know if you need any assistance or if there are any other steps we can take to help you.
+
+Best regards,  
+[Your Name]  
+[Your Company/Uber Platform]",True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support @115873 @119983 #uberhack what is the implication of the hack ! Need explanation please,ACCOUNT_HACKED,ERROR,False,,,"HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)"
+@7532 @Uber_Support https://t.co/O7w7SNA9LO,SUPPORT_CONTACT,DRIVER_PROBLEM,False,"Dear @7532,
+
+Thank you for contacting Uber Support. I will check the information you provided and provide you with the necessary assistance.
+
+If you need further assistance or have any questions, please do not hesitate to reach out to us.
+
+Best regards,  
+[Your Name]",True,The issue requires case-specific investigation or account/payment review.
+@115877 haven’t been able to order McDonalds for the last few days - system outage or an issue with the individual store?,UBER_EATS_ORDER,LOST_ITEM,False,"@115877, we've received your issue. Our team will connect you immediately to address it. Please send us a DM with your email address so we can connect. We're here to help! 🚀 😊",False,The issue appears suitable for an automated first response.
+"@Uber_Support Hello, I cannot sign in to my account. I forgot my password. My phone number is +919494884987",LOGIN_ACCOUNT_ACCESS,LOST_ITEM,False,@Uber_Support Hi there! I'm unable to log in to my account. I forgot my password. My phone number is 919494884987. Could you please help me reset my password?,False,The issue appears suitable for an automated first response.
+@Uber_Support can you get me the link cause i can’t log in correctly ?,LOGIN_ACCOUNT_ACCESS,ACCOUNT_HACKED,False,"Hello, Mashanda. I apologize for any inconvenience caused. Please try the link provided at this address: https://t.co/BDlHSjUF9c. If you're still having trouble, feel free to contact support again.",True,The issue requires case-specific investigation or account/payment review.
+"@Uber_Support Dear Uber support. Your driver cancelled last trip, now app asking for cancellation charges. Kindly see to it",CANCELLATION_FEE,CANCELLATION_FEE,True,"Dear Uber support,
+
+Thank you for reaching out. I understand that you are concerned about the cancellation charges that Uber is asking for. I will follow up with you to address this issue.
+
+Best regards,
+[Your Name]",True,The issue requires case-specific investigation or account/payment review.
+@423746 @115877 I’ve never had a problem before! I was hangry when I ordered so it just sucks that he probably didn’t read my apt # and left it somewhere😒,UBER_EATS_ORDER,DRIVER_PROBLEM,False,"Hi there! Thanks for reaching out. I'll do my best to help you.
+
+@423746, @115877, your issues are being tracked by our team. Please keep us updated on the status of your order. If you need any assistance or have any questions, don't hesitate to reach out.
+
+If you're not immediately connected, I'd suggest trying again later. Let me know if you need any more information or if the issue is resolved.
+
+Best regards,  
+[Your Name]  
+Uber Support Team",True,The issue requires case-specific investigation or account/payment review.
+@115873 I had to cancel a ride bc they drove away after we saw him. plz give me my money back 0/10 experience. whats ur customer service email,REFUND_REQUEST,REFUND_REQUEST,True,@115873 I'm really sorry to hear about the cancellation. Could you please provide me with your ride number and the reason for canceling it so I can assist you better?,True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support you said you lifted the hold on my card but I'm still not able to use it. Why?,FARE_CHARGED_WRONG,LOST_ITEM,False,"@Uber_Support, I'm still unable to use the gift card. Can you please help me by giving me more details on the charge amount? Also, did I have any additional details or actions taken on the phone call? Let's try to resolve the issue as quickly as possible.",False,The issue appears suitable for an automated first response.
+@Uber_Support Ride was disgusting and driver doesn't know how to talk to female passenger. #Ubershame,DRIVER_PROBLEM,DRIVER_PROBLEM,True,"@Uber_Support, I understand that the driver may not be familiar with a female passenger and may not be able to effectively communicate with her. I will take a closer look and provide further assistance. Thank you for your understanding. #Ubershame",True,The issue requires case-specific investigation or account/payment review.
+"@115873 Getting no help from Uber. Ended up paying more than double the trip fare due to your GPS issues. Distance traveled was 4km, showed 12",FARE_CHARGED_WRONG,DRIVER_PROBLEM,False,"Dear @115873,
+
+Thank you for reaching out. I apologize for the confusion and inconvenience caused. To resolve the issue more effectively, I will need to provide you with the necessary information.
+
+Could you please confirm your trip fare, the distance, and any additional details such as the exact coordinates or GPS issues you encountered? This will help me understand the situation better and provide a more accurate solution.
+
+Once I have this information, I will check the details and notify you if any changes are needed.
+
+Thank you for your patience and understanding.
+
+Best regards,  
+Uber Support",True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support I ordered through ubereats and received completely burnt food. Restaurant said take it up with you. What number do I call??,UBER_EATS_ORDER,UBER_EATS_ORDER,True,"Hello! I hope you're doing well. Thank you for reaching out to us through Uber! We're here to assist you with any issues you may have. Let me help you with your order, and if you need any more assistance, feel free to ask.",False,The issue appears suitable for an automated first response.
+@Uber_Support Where am supposed to put the note? Its just an faq?,APP_PROBLEM,REFUND_REQUEST,False,@Uber_Support I apologize for the confusion. You can send us an email with your contact information so we can assist you further.,True,The issue requires case-specific investigation or account/payment review.
+"@73366 @Uber_Support 
+@115873 @115873.com/lucknow..driver vishal denied pick up from lucknow airport",DRIVER_PROBLEM,DRIVER_PROBLEM,True,"Hello, thank you for contacting Uber Support. I'll escalate this issue to the appropriate Uber team.",True,The issue requires case-specific investigation or account/payment review.
+@115877 WHEN ARE YOU GOING TO START DELIVERING TO BOWIE STATE?!? DO YOU KNOW HOW MUCH MONEY YOU MISSING OUT ON ???,UBER_EATS_ORDER,LOST_ITEM,False,"Hello @115877,
+
+Thank you for reaching out with your question. I'm here to assist you with any issues you may be facing.
+
+When starting to deliver to Bowie State University, it is important to keep in mind that we are unable to deliver directly to that location due to the specific area and traffic patterns around it. However, we are continuing to expand our service to include more locations. You can check our availability here: https://t.co/P4mEOOIdr4. We appreciate your patience and understanding.
+
+If you have any other questions or need assistance, feel free to reach out. We are here to help.
+
+Best regards, 
+Uber Customer Support Team.",False,The issue appears suitable for an automated first response.
+@115873 my Uber driver just took the longest route possible to my house and drove us into traffic and I got charged double what I was supposed to pay. That’s not my fault i want my refund.,FARE_CHARGED_WRONG,FARE_CHARGED_WRONG,True,"@115873, thank you for reaching out. I'll be in touch with our team to address this issue and resolve the discrepancy. If you need further assistance, please don't hesitate to reach out. I'm here to help.",True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support I have sent my response multiple times but no response from your support team,SUPPORT_CONTACT,SUPPORT_CONTACT,True,"@Uber_Support Thank you for reaching out. I've already followed up via DM with a previous response, so I'm closing this ticket out. Would you like to discuss any further actions or follow up procedures?",False,The issue appears suitable for an automated first response.
+"@Uber_Support Mate, It ain’t even on my app anymore",RIDE_PROBLEM,LOST_ITEM,False,"@Uber_Support Mate, I'm really sorry to hear that you couldn't find the Original Glazed Dozen box on your app. We're really sorry about the technical issue we experienced. Stay tuned for more fun promotions soon! If you have any other questions or concerns, don't hesitate to reach out to us.",False,The issue appears suitable for an automated first response.
+@Uber_Support I scheduled an Uber to the airport. A no show... Now I struggling to get my flight. Guess I can not depend on a scheduled Uber ride.#undependable,RIDE_PROBLEM,ERROR,False,,,"HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)"
+@Uber_Support app keeps telling me my docs are updated and available for rides.  Get text everyday at 2pm.  App only show deliveries as an option.,APP_PROBLEM,SUPPORT_CONTACT,False,"@Uber_Support, I'm here to help! Could you please send us a note via this link so we can get in touch? https://t.co/tv4psVy8sr",False,The issue appears suitable for an automated first response.
+"@119983 @115873 Since it was late night &amp;payment was through paytm i didnt notice, instead of closing trip at drop, he ended trip going back to airport",RIDE_PROBLEM,REFUND_REQUEST,False,"@119983, @115873, thank you for reaching out to us. We're sorry to hear that the trip ended late at the airport. To provide a more accurate response, can you please let us know the details of your trip so we can assist you further?",True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support I lost my 50% off promo after updating my Discover info :( Discover forced a CC update after the @6077 fiasco. Pls help!,PROMO_DISCOUNT,LOST_ITEM,False,@Uber_Support I'm really sorry to hear about the lost 50% off promo. Could you please help me resolve this issue?,False,The issue appears suitable for an automated first response.
+@Uber_Support hey your app won’t let me use my first time promo for $15! I tried contacting through app and nobodies responded,PROMO_DISCOUNT,PROMO_DISCOUNT,True,"Dear Uber Support,
+
+I hope this message finds you well. I was trying to use my first-time promo code, but it won't let me proceed. I tried contacting through the app, but no one responded.
+
+Thank you for your help and time.
+
+Best regards, [Your Name]",False,The issue appears suitable for an automated first response.
+@Uber_Support Already reported one more driver named ashok cancelled the booking. Am stranded outside office from last 30 mins,RIDE_PROBLEM,CANCELLATION_FEE,False,"@Uber_Support, I have already reported one driver named Ashok who cancelled the booking. I am stranded outside the office for the last 30 minutes. I have no information about the driver's payment. Could you please assist me with this?",True,The issue requires case-specific investigation or account/payment review.
+#KrispyKreme @148768  what is happening... I want donuts @115877 https://t.co/HAA4353imn,UBER_EATS_ORDER,LOST_ITEM,False,"Hello, I apologize that the donuts are not available in your area. We apologize for any inconvenience caused. However, we are working hard to handle demand. If you're not connected, I will try again. Thank you for your understanding! #KrispyKreme #donuts",False,The issue appears suitable for an automated first response.
+@Uber_Support I would like to delete my account. Can you please expedite this? Let me know your questions. Thanks!,LOGIN_ACCOUNT_ACCESS,SUPPORT_CONTACT,False,"@Uber_Support Dear @Uber_Support, I would like to delete my account. Can you please expedite this? Let me know your questions. Thanks!",False,The issue appears suitable for an automated first response.
+@Uber_Support account hacked can't delete it or get in touch with you because the phone number doesn't match the one now on account,ACCOUNT_HACKED,ACCOUNT_HACKED,True,"@Uber_Support Account hacked can't delete it or get in touch with you because the phone number doesn't match the one now on account
+
+Detected intent: ACCOUNT_HACKED
+
+Historical Uber support examples:
+
+Historical Example 1:
+Customer: @Uber_Support account hacked can't delete it or get in touch with you because the phone number doesn't match the one now on account
+Uber Support: @546244 Hey, Scott! We are sorry to hear about the trouble with your account. Please send us a DM with your account email and we will follow up.
+
+Historical Example 2:
+Customer: @Uber_Support My account has been hacked. When will this be resolved??
+Uber Support: @290573 We see your outreach and a member of our team will be following up via email as soon as possible. We appreciate your patience.
+
+Historical Example 3:
+Customer: @Uber_Support my account hacked pls help
+Uber Support: @218055 We want to get on this right away, Achi. Please share the email address associated with your Uber account, and we can follow up.
+
+Historical Example 4:
+Customer: @Uber_Support 
+MY ACCOUNT HAS BEEN HACKED. 
+
+Can we fix this please? https://t.co/epBJ95axC0
+
+Customer: 
+@Uber_Support 
+MY ACCOUNT HAS BEEN HACKED.
+
+Can we fix this please? https://t.co/BDlHSjUF9c
+
+Customer: 
+@Uber_Support, out of the blue my Uber app disconnected, and now it's saying my phone number doesn't match my email account anymore; I can't connect or call any cars. What do I have to do?
+
+Customer: @Uber_Support Can you please help me? 
+Uber Support: @809140 Here to help. Send us a note at https://t.co/BDlHSjUF9c so our team can connect.",True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support that doesn’t answer my question. Can I use an iPad to order an Uber?,RIDE_PROBLEM,REFUND_REQUEST,False,"Hello @Uber_Support! Thank you for your help. I understand that you are trying to use an iPad to request a trip on your app. To confirm, did you encounter any issues while using the app before? This information will help us better assist you.",True,The issue requires case-specific investigation or account/payment review.
+HELLO I NEED TO BE AT WORK IN 57mins what is going on??? U said add a new card so I was going to do that. U fixed my account yesterday and now I can’t even get in my account again! HELLO!@Uber_Support @115873 @116276 i wish I wasn’t deaf and I could talk because nobody understands https://t.co/YOrDzXIqwm,LOGIN_ACCOUNT_ACCESS,FARE_CHARGED_WRONG,False,"Hello, I'm here to help you get through this. Could you please provide me with your email address so we can get in touch with you more directly?",True,The issue requires case-specific investigation or account/payment review.
+@115873 I have an outstanding issue and I'm not receiving any help. How can I reach out to support outside of the app?,SUPPORT_CONTACT,UBER_EATS_ORDER,False,"Hello @115873,
+
+I hope this message finds you well. I noticed you are having trouble with our customer support. I would like to offer you some assistance through the existing channels and provide some tips on how to reach out to support outside of the app.
+
+Firstly, if you are having trouble finding our customer support through our app, you can try our website at [insert website link here]. Our support team is available 24/7 and can provide you with the support you need.
+
+Secondly, if you are not able to reach out to our customer support via our app or website, you can reach out to our support team via phone at 309330. They are available from 7:00 AM to 5:00 PM Eastern Time. You can also call us on 555555, which is the toll-free number for our customer service.
+
+If you are still experiencing issues or need further assistance, please feel free to contact our support team. We value your feedback and are here to help you find the solution to your problem.
+
+Thank you for using Uber. Have a great day!
+
+Best regards,  
+Uber Support",False,The issue appears suitable for an automated first response.
+Thanks @115873 driver for making me wait 20mins before cancelling the trip. A REAL timesaver.,RIDE_PROBLEM,FARE_CHARGED_WRONG,False,"@115873, thank you for bringing this issue to our attention. We are sorry to hear that you were waiting longer than we expected. We apologize for any inconvenience caused and are working to resolve this as quickly as possible. Please note that if you need to cancel your Uber ride or have a different reason for waiting, we can assist you with that. If you have any questions or need further assistance, please don't hesitate to reach out. We value your feedback and will continue to strive for excellence.",True,The issue requires case-specific investigation or account/payment review.
+"@115873 Left my charger in an uber.  Am trying to log into my uber account from my laptop but it's a 2 factor authentication, which means it's asking me for the code sent to my phone.  But my phone is dead.  Options?",LOST_ITEM,LOST_ITEM,True,"@115873, I apologize for the inconvenience. Please, could you please provide me with the code sent to your phone so that I can log in to your account? It would be much appreciated. Thank you!",False,The issue appears suitable for an automated first response.
+"@115873 Sent a report and they started a conversation that started and ended in one message: ""M."" Ugh, bank PayPal and Uber giving me the runaround.",SUPPORT_CONTACT,ACCOUNT_HACKED,False,"Hello, thank you for reaching out to us. I'm sorry to hear that the bank PayPal and Uber were causing you a headache, but I'm here to assist you. To get a better understanding of the situation, could you please share more details about what is happening?",True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support How can it take over 13 hours and still waiting?!,SUPPORT_CONTACT,CANCELLATION_FEE,False,"@Uber_Support, I understand you're experiencing a delay in your request. Can you please provide more details about the delay? This information will help us understand the situation better and provide a more suitable solution.",True,The issue requires case-specific investigation or account/payment review.
+"I keep getting downgraded by @115873 drivers in London cause I'm brown and gay.  Anyone else get that?  I'm on time in the right location, don't slam my door and I'm polite.    I think I'll try Addison Lee in future.",DRIVER_PROBLEM,FARE_CHARGED_WRONG,False,"@115873, I'm sorry to hear that you're having trouble getting your ride. Have you considered trying a different driver in London who might be more comfortable with you? Also, if you're still concerned about the quality of service, feel free to reach out to us again. Let us know if you have any other questions or concerns.",True,The issue requires case-specific investigation or account/payment review.
+@115873 @Uber_Support With 140 words hw could I put DM to u. My mail id is __email__,SUPPORT_CONTACT,SUPPORT_CONTACT,True,"@115873, @Uber_Support, with 140 words, I can help you with DM. Please provide your mail id, and I will send you a DM by clicking on the following link: https://t.co/sd7yH5jmbJ. Thank you!",False,The issue appears suitable for an automated first response.
+Hey @115873 you should have an option for non-smoking cars so people can choose if they want to pay to smell like an ashtray or not,DRIVER_PROBLEM,DRIVER_PROBLEM,True,"Sure, here is a concise and professional response:
+
+Hi there! Thank you for sharing your concerns. We're here to help!
+
+1. For the non-smoking option: You can choose not to smoke at all, but it's important to have a designated smoking area in the car for others to see. If you have any specific questions, feel free to reach out to our customer support team. We're happy to assist you further.
+
+2. For the smoking-related issues:
+   a. The driver is smoking while the driver picks you up. We're sorry to hear about that experience.
+   b. We'd be glad to discuss how to make the driver's experience more pleasant.
+   c. If you have any specific questions or concerns about the driver's smoking habits, please feel free to reach out to our customer support team.
+   d. We're sorry to hear about the smoke-infested environment, but it's important to maintain a safe driving environment for everyone involved.
+
+If you need any further assistance or have any questions, don't hesitate to reach out. We're here to help!
+
+Best regards, 
+[Your Name]",True,The issue requires case-specific investigation or account/payment review.
+TF when you don't get an email for @115873 Ride Pass. @Uber_Support https://t.co/7k8K6PHvTY,PROMO_DISCOUNT,SUPPORT_CONTACT,False,"Hello there! We're here to help you with your ride pass issue. Can you please provide me with the following information:
+
+1. Your account number: Please share your 115873 ride pass number.
+2. Your email: Please enter your email address associated with your ride pass.
+3. Your name: If you remember it, please provide your name or your contact information.
+4. Your payment method: Please confirm the payment method you used to purchase your ride pass.
+
+Once I have all the required information, I will check and notify you about the status of your ride pass. If you have any questions, please don't hesitate to reach out. Have a great ride! 🚴‍♂️😊",False,The issue appears suitable for an automated first response.
+@Uber_Support sent a query through DM. Pls look into this,SUPPORT_CONTACT,REFUND_REQUEST,False,"@Uber_Support, thank you for reaching out to us. We will investigate this issue and get back to you soon.",True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support Sweet. Another bogus fare from my account that has been hacked. Uber - please fix my account or close the hacked one ASAP. Tired of this. Absolutely ridiculous. Complete lack of support on your end. 4th one in less than 24 hrs,ACCOUNT_HACKED,ACCOUNT_HACKED,True,"@Uber_Support, thank you for your call. I'm currently addressing the issue. Please send me a DM with your account details so we can follow up in a timely manner. We'll then review your account to address the hack. Thank you for your patience and understanding.",True,The issue requires case-specific investigation or account/payment review.
+"@Uber_Support  Hello there
+
+I already signed up for Uber and forgot to say my brother referred me. Is it too late to use his code?",PROMO_DISCOUNT,LOST_ITEM,False,"Hello, I hope this message finds you well. I'm @243189 from @Uber_Support. I noticed that you mentioned your brother referred you. Could you please provide me with the code for the person who referred you so we can check if it's still valid or if it's too late to use it? I'll follow up with you shortly. Thank you!",False,The issue appears suitable for an automated first response.
+@148768 @115877 Have all offers gone already?? Not coming up and I'm in range of 2 stores,PROMO_DISCOUNT,LOST_ITEM,False,"Hello! Thank you for reaching out. Unfortunately, we couldn't find the items you were looking for. We are currently working hard to get Krispy Kreme to as many people as possible, but we will keep trying. If you need any assistance or have more questions, don't hesitate to reach out. Have a nice day!",False,The issue appears suitable for an automated first response.
+#idiot @115873 fuck drivers! More than 5 km away #pickup in heavy traffic! No drivers near that area!? @198429 @4035 @198430,RIDE_PROBLEM,RIDE_PROBLEM,True,"Hello, we apologize for the inconvenience. Please try contacting our support team at 198429 or 4035 to report this issue.",False,The issue appears suitable for an automated first response.
+@116276 @115873 I want to go home and I CANT afford a taxi that’s why I use your service and it’s not safe walking at night when you are deaf and can’t hear anything please can you fix this faster!!!,RIDE_PROBLEM,CANCELLATION_FEE,False,"@116276 @115873, I'm sorry to hear about your experience. We understand that being on a tight budget can sometimes make it difficult to find the right service. Would you like to discuss a specific service with our support team? We would be happy to help you find a more affordable option that's safe and reliable. Thank you for your feedback.",True,The issue requires case-specific investigation or account/payment review.
+Finding a car for Chennai international airport. Any @115873 available? @1143 demanding much higher prices,FARE_CHARGED_WRONG,CANCELLATION_FEE,False,"@115873, I've sent a note to @Uber_Support to request a ride. Could you please confirm the availability for Chennai international airport and provide the @115873 number?",True,The issue requires case-specific investigation or account/payment review.
+@116276 @Uber_Support more lies and inconsistencies #injustice #thanksgiving #uber #lies #uberpartners #UberEATS https://t.co/iE1HlyO2WS,SUPPORT_CONTACT,REFUND_REQUEST,False,"Hello, thank you for reaching out with your concern. I'm sorry to hear about the trouble with the box delivery. We're working on resolving this issue as quickly as possible. If you have any updates, please let us know.",True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support I’m using your online service right now and getting no where.,SUPPORT_CONTACT,CANCELLATION_FEE,False,"@Uber_Support, I've been trying to use your services, but I've encountered issues. I apologize for any inconvenience this may cause. Here's some information:
+
+1. The issue is that I'm not being able to access your services online. I've tried reaching out to you for support, but I've received no results.
+
+2. My email address is provided in the historical examples, and you can DM me with any additional details for assistance.
+
+3. If you need to contact me by email, you can do so by clicking the link provided in the historical examples.
+
+Thank you for your patience and understanding. I hope to be able to assist you in the future.
+
+Best regards,
+@115877",True,The issue requires case-specific investigation or account/payment review.
+"@Uber_Support Guys, I left my phone in an Uber, but I can't sign in to track it down because of 2FA - can you help? Thanks, Duncan",LOST_ITEM,LOST_ITEM,True,"@Uber_Support Guys, thank you for your assistance. Unfortunately, I was not able to locate the phone in the Uber. Could you please guide me on how to proceed? I am not able to sign in to track it down without 2FA. 
+
+Thank you for your patience and understanding.
+
+Best regards,
+Duncan",False,The issue appears suitable for an automated first response.
+"@115873 how is it that my ride was only $19.33, but I’m now being charged $99.33?",FARE_CHARGED_WRONG,FARE_CHARGED_WRONG,True,"@115873, thank you for reaching out to us. I apologize for the misunderstanding. We appreciate your patience and understanding. Please provide us with a detailed note so we can assist you further.",True,The issue requires case-specific investigation or account/payment review.
+@7492 im a uber driver that need help but I never get any help from uber support regarding my profile being link to a wrong partner..it was actually link by uber support it self from there side now there don't willing to help me regarding this issue,SUPPORT_CONTACT,DRIVER_PROBLEM,False,"@7492, I'm sorry to hear about your issue. We understand the inconvenience you're experiencing, and we're working on resolving it. Please let me know if we can provide any assistance.",True,The issue requires case-specific investigation or account/payment review.
+"I love how when I do Uber Pool, the second passenger always gets picked up and dropped off before me but when I’m the second passenger, I have to wait for the first to be dropped off before I can even get picked up even though I’m on the way. 😡 @Uber_Support",RIDE_PROBLEM,FARE_CHARGED_WRONG,False,"@254199, thank you for your feedback. We are committed to providing exceptional customer service and addressing any issues with the platform. Please reach out to the Uber Support team if you need further assistance or have more questions. We appreciate your understanding and cooperation. 😏",True,The issue requires case-specific investigation or account/payment review.
+NO ONE USE @Uber_Support  @115873 THEY CHARGE YOU FOR THEIR INCOMPETENT DRIVERS,DRIVER_PROBLEM,FARE_CHARGED_WRONG,False,Hello! I'm here to help you with any issues you may be having. Could you please provide me with more details about the problem you're facing?,True,The issue requires case-specific investigation or account/payment review.
+@115877 has your delivery fee gone up?,UBER_EATS_ORDER,CANCELLATION_FEE,False,"@115877, thank you for reaching out to us. We apologize for any inconvenience caused by the change in the delivery fee. Let's discuss the current status and a possible resolution to this issue.",True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support I did receive the email a few days ago.,SUPPORT_CONTACT,REFUND_REQUEST,False,"@Uber_Support Thank you for reaching out. I will check the email. We are currently experiencing some technical issues, so please be patient.",True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support Can I look at cancelling an UberEATS order. Order now over an hour since order placed so food will be cold. No. #7F216,UBER_EATS_ORDER,REFUND_REQUEST,False,"@Uber_Support 1. Could you please confirm whether you need to cancel your UberEATS order? 
+
+2. Please provide the order number, e.g., #7F216.
+
+3. If your order is not ready yet, we can try to place a new one as soon as possible.
+
+4. If you don't have the order number, we can ask for it.
+
+5. We will follow up with you shortly.",True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support Any news on this? Thanks,SUPPORT_CONTACT,CANCELLATION_FEE,False,"@Uber_Support Any news on this? Thanks, I'll try to book it myself.",True,The issue requires case-specific investigation or account/payment review.
+"@115873 make sure your drivers actually know how to drive, almost died a couple of times tonight",DRIVER_PROBLEM,DRIVER_PROBLEM,True,"@115873, thank you for reporting this issue. We understand the concern about drivers not knowing how to drive. We'll investigate further and provide support as needed. Please let us know if you need assistance in any way.",True,The issue requires case-specific investigation or account/payment review.
+@115877 I want a refund IMMEDIATELY! Food was not delivered after 2 hours then order was cancelled saying unable to deliver after 2 hours? Restaurant called had to collect and pay again for cold soggy food for my family! Shocking!,REFUND_REQUEST,UBER_EATS_ORDER,False,"@115877 I understand. We apologize for any inconvenience caused. Please follow these steps to initiate a refund:
+
+1. Send us a DM with your email address.
+2. Provide us with the reason for the refund (e.g., delivery issues, order cancellation, food quality issues).
+3. Our team will assist you.
+
+Thank you for your patience and understanding.
+
+Best regards,  
+[Your Name]  
+[Your Company]  
+[Contact Information]",False,The issue appears suitable for an automated first response.
+@Uber_Support need help with the invoice. Can you please help?,SUPPORT_CONTACT,REFUND_REQUEST,False,"@Uber_Support, I'm sorry to hear that you're having issues with the invoice. We're here to help. Could you please provide us with the invoice number and the details of the issue? This will help us locate the appropriate support team.",True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support Dmed,SUPPORT_CONTACT,SUPPORT_CONTACT,True,"@Uber_Support, we'll check your DM for more information. Please keep it updated with your email address.",False,The issue appears suitable for an automated first response.
+@115877 ordered from McDonalds Leamington Spa- driver delivered food but dropped it on the floor. Restaurant saying they can't help me,UBER_EATS_ORDER,UBER_EATS_ORDER,True,"Dear customer,
+
+Thank you for your feedback. I apologize that the delivery was not as expected. 
+
+@115877, if you need assistance with returning the food or providing feedback, please don't hesitate to reach out. We are here to help you resolve any issues.
+
+Best regards,
+[Your Name]",False,The issue appears suitable for an automated first response.
+@115873 service disappointing. Showing 5min for over 20min. Driver's Tel no. suspended so can't call him. Charges Rs 47 for cancelling trip.,CANCELLATION_FEE,CANCELLATION_FEE,True,"I'm sorry to hear that you are having a disappointing experience with Uber. I'll escalate this issue to our team to investigate and provide a proper solution. If you need any more information or assistance, please feel free to reach out.",True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support This is the error. https://t.co/lzsODLapLF,APP_PROBLEM,SUPPORT_CONTACT,False,"Hello Nandan, I am the customer support for Uber. I noticed that you are having trouble with your ride. I would like to assist you with the issue.
+
+To help you, I will need to know the specific error message you are receiving. Could you please provide the error message from the link you shared?",False,The issue appears suitable for an automated first response.
+"@116276 @116288 @115873 @Uber_Support : fraud by uber.
+Uber app did not allocated cab and in end showing as cancelled by me in app.
+Fraud by Uber
+#Uber #BanUberInIndia 
+@116276 : Please take action and don't be careless.
+Check pics attached to thus tweet https://t.co/G67FqdpxEs",RIDE_PROBLEM,CANCELLATION_FEE,False,"@Uber_Support: Hello, I've reported a fraud issue with Uber. Please take action and don't be careless. Send me the attached pictures to escalate the matter. #CANCELLATION_FEE",True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support 7UPV269 tried to run me over during a pedestrian crossing. No means to report bad driving in app except for your driver! FIX PLZ.,DRIVER_PROBLEM,FARE_CHARGED_WRONG,False,Thank you for your call. We apologize for the inconvenience caused. Can you please provide me with more details about the incident?,True,The issue requires case-specific investigation or account/payment review.
+@115873 i need my money back from this cancellation your driver passed me 3 times and i called her,CANCELLATION_FEE,REFUND_REQUEST,False,"Dear @115873,
+
+Thank you for reaching out to us regarding the cancellation. I understand that you want your money back, and I’m here to assist you in resolving this issue.
+
+I will reach out to our team to review your cancellation and provide you with a resolution. You can follow up with us through the in-app help section or your email.
+
+Please let me know if you need further assistance or if you have any questions.
+
+Best regards,
+
+Uber Customer Support
+@115873",True,The issue requires case-specific investigation or account/payment review.
+"@115873 my account has been hacked and my email/ mobile/ password information is all incorrect and inaccessible. How can I amend this and ensure it doesn't happen again? As a consequence of this, someone has attempted to use my bank details to pay for their journeys.",ACCOUNT_HACKED,ACCOUNT_HACKED,True,"@115873,
+It appears you have experienced an account hack. I am here to assist you. Please provide us with the necessary information to proceed.",True,The issue requires case-specific investigation or account/payment review.
+"@Uber_Support We have, it doesn't work. Do you not have a customer support number?",SUPPORT_CONTACT,SUPPORT_CONTACT,True,@Uber_Support I understand. We will check the issue with our customer service team. Please keep in touch with us if you need any further assistance.,False,The issue appears suitable for an automated first response.
+@Uber_Support Sad to see the uber standards of taking advantage of festival..,FARE_CHARGED_WRONG,REFUND_REQUEST,False,"@115873, I'm sorry to hear that. Could you please provide me with the details of your trip so we can understand the issue?",True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support  where is my food at? It's says delivered but yet my coworker and I go hungry.,UBER_EATS_ORDER,SUPPORT_CONTACT,False,"@Uber_Support, I'm really sorry to hear that your food isn't delivered. Could you please confirm the delivery address or the specific time when the food was delivered? This information will help us track the situation and find a solution. Thank you for your patience and understanding.",False,The issue appears suitable for an automated first response.
+@Uber_Support if I will late just five min then you will charge me extra but I am waiting your cab from past 18 min. 1/n,FARE_CHARGED_WRONG,CANCELLATION_FEE,False,"@290574, I'm sorry to hear about the delay! Please send us a note at https://t.co/593jusCquh and our team will follow up.",True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support Why was I charged twice for 1 ride ? It shows in my bank statement?,FARE_CHARGED_WRONG,FARE_CHARGED_WRONG,True,"@Uber_Support, I'm really sorry to hear about the trouble. I want to take care of it for you. Can you please send me a note at https://t.co/zJ6aIZinzb so we can connect and help you?",True,The issue requires case-specific investigation or account/payment review.
+"@Uber_Support the Uber app on my Apple Watch stopped working with the iOS app although I’ve already signed in on mobile. Tried reinstalling but will not work.
+
+Fix needed asap! https://t.co/TP4SUkiYtR",APP_PROBLEM,CANCELLATION_FEE,False,"Hello, thank you for reaching out to us. We're really sorry to hear that your Apple Watch app is not working with the iOS app. 
+
+To help resolve the issue, we can try a few things: 
+
+- Make sure you are using the correct iOS app and that it's installed on your Apple Watch. 
+- Try restarting your device and then try signing back in on the iOS app. 
+- Contact our customer service team at 539525 or 364280 to report the issue. 
+
+Please let us know if you're still experiencing problems. We'd love to assist you further. 
+
+Best,  
+[Your Name]",True,The issue requires case-specific investigation or account/payment review.
+@115873 please contact me! Not happy at paying £24 this time when only £14 last!,FARE_CHARGED_WRONG,SUPPORT_CONTACT,False,"@115873, I'm sorry to hear about the issue you're experiencing. I can confirm that the amount you're paying is correct and that you haven't made a complaint about the service yet. I recommend reaching out to your driver or checking the latest pricing information for a more accurate quote. If you need assistance with a specific issue, feel free to reach out to our customer support team. Let's resolve this together and make this ride smoother.",False,The issue appears suitable for an automated first response.
+@Uber_Support I was told that i was given a credit but i still haven't gotten it.,REFUND_REQUEST,CANCELLATION_FEE,False,"@375721,
+We've recently seen the message that you're receiving a credit but haven't received it. We're currently reviewing this account. Please check your inbox for a response. If you have any questions or concerns, feel free to reach out.",True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support why did I get this sent to my house if @115877 doesnt deliver @McDonalds to my house https://t.co/tzxCsY4FHS,UBER_EATS_ORDER,REFUND_REQUEST,False,"Dear @115877,
+
+Thank you for reaching out to us regarding the delivery issue with @115877. I apologize for any inconvenience caused and appreciate your prompt response.
+
+Regarding the delivery issue with @115877, I have been notified that the food was delivered to the address you provided, but the delivery service was not available to your house at that time. I have already provided you with the delivery details on the relevant platform, and I kindly ask you to take the necessary steps to address this issue promptly.
+
+I understand that you are currently located in the @McDonalds, and I am working to locate the restaurant where the delivery service was not available. Please keep me updated on your progress.
+
+I appreciate your understanding and patience during this process. If you have any questions or concerns, please do not hesitate to reach out to me.
+
+Thank you for your assistance and I look forward to resolving this issue.
+
+Best regards,  
+[Your name]",True,The issue requires case-specific investigation or account/payment review.
+"@115877 managed to somehow order food I didn’t order. And the support “couldn’t” cancel the order. Sorry, but I’m not down to paying $10 for a one mcmuffin.",UBER_EATS_ORDER,LOST_ITEM,False,"@115877, thank you for reaching out to us. I'm sorry to hear about the lost order. We're here to help. Can you please send us a note via https://t.co/NcKEnQDmxQ so we can assist? We'll be happy to connect you again.",False,The issue appears suitable for an automated first response.
+Hey @115873 why has my driver been 1 minute away for more than 10 mins,RIDE_PROBLEM,DRIVER_PROBLEM,False,"@115873, I'm sorry to hear about your experience. We're here to assist you and help connect you with the right driver. Please send us a note at https://t.co/h840Iouehc so our team can connect to the driver you're referring to. We appreciate your patience and understanding during this time.",True,The issue requires case-specific investigation or account/payment review.
+@115873 Waited 20+ mins for this driver and made me late to work! I couldn’t cancel it cause it was past 2 minutes of confirming it #notcool https://t.co/uHpcLZJXEb,RIDE_PROBLEM,LOST_ITEM,False,"@115873, thank you for reaching out to us. We apologize for the inconvenience and regret the delay. Our team will work on resolving this issue as soon as possible. Please note that we are here to assist you and will check in with your driver. You can always cancel the booking if the situation is not acceptable. If you have any further questions or concerns, please don't hesitate to reach out. Best regards, Uber Support.",False,The issue appears suitable for an automated first response.
+Absolutely heartbroken @115877 @148768 looks like your promo Krashed #KrispyKreme #UberEats ☹️☹️☹️ https://t.co/EFtX7EJIlx,PROMO_DISCOUNT,PROMO_DISCOUNT,True,"Absolutely heartbroken @115877 @148768 looks like your promo Krashed #KrispyKreme #UberEats ☹️☹️☹️ ! We're sorry, @695274. We're working hard to sort a technical issue caused by high demand. Please doughnut worry, there will still be plenty of time to order. If you're not immediately connected, do try again.",False,The issue appears suitable for an automated first response.
+"So, here is how @115873 robs you of their Uber pool service. If you take Uber pool and have 3 passengers in them and cross a toll then they pay the toll once, but charge each of you the full amount. A company of this size can't do simple math! #Uber #UberSucks #UberCheats",FARE_CHARGED_WRONG,FARE_CHARGED_WRONG,True,"@115873, thank you for your feedback. We appreciate your patience and understanding. Our company values simple, transparent payment methods. For any further questions or concerns, feel free to reach out to us. We're committed to providing reliable and safe ride services.",True,The issue requires case-specific investigation or account/payment review.
+Is there a mathematical proof that explains why the @115873 driver that grabs my ride is almost always going the opposite direction from where I'm headed? Adds so much time to the trip (I realize this is awfully bratty; don't care),RIDE_PROBLEM,CANCELLATION_FEE,False,"@115873, thanks for reaching out. The 115873 driver is the one who is grabbing your ride. They are almost always going the opposite direction from where you're headed and adding so much time to the trip. We understand the situation and we will assist you in canceling your ride. Please send us a note via the link provided.",True,The issue requires case-specific investigation or account/payment review.
+@115873 @Uber_Support Sending me a procedure that I have indicated does not work is not support. #uber #ubersupport #badsupport  #whereismystuff,SUPPORT_CONTACT,FARE_CHARGED_WRONG,False,"@115873, thank you for reaching out to us. We understand that you encountered issues with your order. Please provide the specific details of your order so that we can assist you better.",True,The issue requires case-specific investigation or account/payment review.
+Life is expensive without the @115873 pass. How did I miss it!! I checked everyday.....🧐😒,PROMO_DISCOUNT,LOST_ITEM,False,"Hello! I'm here to help you with any questions you might have about your @115873 pass. I'm so sorry you're having trouble with this.
+
+Let me know if you need any additional information or if you have any specific questions about the pass. I'm here to assist you with your Uber needs.
+
+Please let us know if you need any further assistance.",False,The issue appears suitable for an automated first response.
+@Uber_Support Just took another trip. Bumped it up to a 4.83. Do you know how many trips it would take for me to get it back to a 5.0?,RIDE_PROBLEM,LOST_ITEM,False,"Sure, I'll do my best to provide a professional customer-support reply without using the historical examples or repeating the customer's message.
+
+Customer message:
+@Uber_Support Just took another trip. Bumped it up to a 4.83. Do you know how many trips it would take for me to get it back to a 5.0?
+
+Customer support response:
+Hi there, I'm here to help with your Uber experience. After taking your previous trip, it was bumped up to a 4.83 rating. Since then, it's not reaching a 5.0 rating. Could you please let me know how many trips you plan to return to a 5.0 rating?
+
+Customer Support:
+I apologize, but I don't have the ability to provide a precise estimate of the number of trips it would take to return to a 5.0 rating without any additional information from you. 
+
+If you need to adjust your rating or if you have any specific requests, please let me know. I'd be happy to assist you with any questions or concerns you might have.",False,The issue appears suitable for an automated first response.
+"@Uber_Support I offered an UBER for 186 rub and this money was taken from my bank acc. I was waiting for price to go down. In the end of the trip they took even more money from me, additional 274,16 rub. What should I do? This trip didn't worth this money!!!",FARE_CHARGED_WRONG,LOST_ITEM,False,"Hi there! I was very happy with my Uber ride. The total amount I paid is 186 rubles. If we were to compare it with the current price, I'd expect it to be lower. I'm grateful for the offer and would appreciate a refund. If you could provide a refund or exchange, that would be a great help.",False,The issue appears suitable for an automated first response.
+"@115873 I was wrongly charged for a cancellation fee. Tried to find a solution thru Support, but my option isn't offered. Please help.",CANCELLATION_FEE,CANCELLATION_FEE,True,"@333062, Here to help! Please send us a note at https://t.co/h840Iouehc and we'll be happy to look into this for you.",True,The issue requires case-specific investigation or account/payment review.
+@115877 it's been almost a hr for my food to come 2 miles someone is taking the piss out of me,UBER_EATS_ORDER,CANCELLATION_FEE,False,"Hi there!
+
+Thank you for reaching out with our food delivery issues. I'm here to help, and I'll do my best to resolve the situation as quickly and efficiently as possible.
+
+I've already sent you a note via our platform, explaining the situation. If there's anything specific you need help with or if there's another issue with our services, please don't hesitate to reach out.
+
+Best regards,
+
+[Your Name]",True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support the form you just linked does not have a space to write a note. Please advise.,SUPPORT_CONTACT,SUPPORT_CONTACT,True,"@Uber_Support, thank you for reaching out. Please DM me with your email address and phone number so we can connect about this issue. We'll take a closer look and get back to you shortly.",False,The issue appears suitable for an automated first response.
+I can't use @115873 because my number and email already registered by someone else from Indonesia since last year. Wth,LOGIN_ACCOUNT_ACCESS,CANCELLATION_FEE,False,"Hello! I would like to cancel the service you are currently using on @115873, as you have already registered with that number and email from Indonesia. Can I help you with the cancellation?",True,The issue requires case-specific investigation or account/payment review.
+"Just had my @115873 driver text me before my ride asking me where I'm going. I was a little confused. When I confirmed, he promptly dropped me. Made me late 😡",DRIVER_PROBLEM,DRIVER_PROBLEM,True,"Hello, thank you for reaching out to us. We apologize for the confusion and regret the inconvenience caused. To assist you better, could you please confirm the location you were going to with me before our ride started? Also, could you please provide more details on your itinerary or any issues you are experiencing while waiting for your ride? We are here to help and will be in touch with you soon.",True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support Good morning.  I need to reset my password but your email links aren't working.  Please DM!,LOGIN_ACCOUNT_ACCESS,LOGIN_ACCOUNT_ACCESS,True,@Uber_Support I understand you are having trouble logging in. Here's the DM link: https://t.co/7NEPYnmuMH. Please DM us for further assistance.,False,The issue appears suitable for an automated first response.
+@115873 pls provide ur customer care number.As I have forgot my phn in taxi in banglore and not able to contact driver...,LOST_ITEM,LOST_ITEM,True,"@115873, you can provide your Uber customer care number by sending the following message to the support team: ""Hi, I'm looking for my Uber customer care number. Could you please provide it to me? It's important for me to contact the driver in case of any issues.""",False,The issue appears suitable for an automated first response.
+"@119983 
+1st trip with uber ..felt cheated..Driver took cash and uber deducted the amount from wallet also..whn u complain no support",FARE_CHARGED_WRONG,FARE_CHARGED_WRONG,True,"@119983 
+1st trip with Uber ..felt cheated..Driver took cash and Uber deducted the amount from wallet also..whn u complain no support
+We are here to help! Please confirm your email address or phone number through direct message so we can further assist.",True,The issue requires case-specific investigation or account/payment review.
+@115873 driver tonight was beyond rude and so unhelpful I am honestly disappointed.,DRIVER_PROBLEM,DRIVER_PROBLEM,True,"I'm sorry, but I can't assist with that.",True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support What if no driver takes the trip ?,RIDE_PROBLEM,FARE_CHARGED_WRONG,False,"@Uber_Support, I'm sorry to hear that the driver cannot be found. Could you provide more information about the trip and what might be causing it? I'll make sure to check if there are any updates or changes to the service.",True,The issue requires case-specific investigation or account/payment review.
+"Wow, you did it! Thank you @Uber_Support https://t.co/OakCSQjOzK",SUPPORT_CONTACT,REFUND_REQUEST,False,"@446972, thank you for your kind words. I'm sorry, but I can't assist with refunds or claims. I'm here to help with any other questions you may have.",True,The issue requires case-specific investigation or account/payment review.
+"@115873 you need a call center, your email support system is worst than going to the DMV #Uber",SUPPORT_CONTACT,ERROR,False,,,"HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)"
+@Uber_Support I didn't give any email in the uber app how will u reach me,LOGIN_ACCOUNT_ACCESS,FARE_CHARGED_WRONG,False,"Hello, I hope this message finds you well. I wanted to remind you that, based on the data we have collected so far, we are currently unable to provide you with any email information. The data we have analyzed so far shows that emails are not being sent to our members. However, please be assured that our team is actively working to improve our service and will be contacting you to assist you with any questions or concerns you might have.
+
+If you have any questions or need further assistance, please don't hesitate to reach out to our customer support team. We are always here to help.",True,The issue requires case-specific investigation or account/payment review.
+"@Uber_Support @115873 @119983 I forgot my mobile in Uber cab this morning and it was taken by Cab driver and he is telling FairyTales.
+Do u even have a on call support..??",LOST_ITEM,LOST_ITEM,True,"I'm really sorry, but I'm unable to assist with that.",False,The issue appears suitable for an automated first response.
+"@Uber_Support my wife cannot use your app.  it says contact support, but we have no phone #.  please advise.",APP_PROBLEM,SUPPORT_CONTACT,False,"I'm sorry, but I'm unable to assist with this.",False,The issue appears suitable for an automated first response.
+"@Uber_Support First case- unable to add dates for September 6 2017. Second case-  I have made payment, uber still asking for payment on app.",APP_PROBLEM,REFUND_REQUEST,False,"@Uber_Support Thank you for reaching out. I will escalate this to our customer service team to investigate further. Once we resolve the issue, we will provide a resolution to you.",True,The issue requires case-specific investigation or account/payment review.
+"@115873 Lucknow is similar like passenger train.
+You have to wait for 10min atleast for your every ride! 
+Poor Service (N)",RIDE_PROBLEM,PROMO_DISCOUNT,False,"@115873, I apologize for the inconvenience. Thank you for sharing your experience. I've been working to address your concerns. If you need any further assistance, please don't hesitate to reach out. I'm here to help! 🚱✨",False,The issue appears suitable for an automated first response.
+@Uber_Support Was overcharged 4X on my cash trip today. Ive lodged a complaint and haven’t heard from you guys since morning. This is totally unprofessional. Request you to reply ASAP,FARE_CHARGED_WRONG,FARE_CHARGED_WRONG,True,"@805020, I've lodged a complaint regarding the overcharging on my cash trip. I'm calling to inform you that I've experienced 4X overcharging since morning. I've provided my email address for a follow-up. I appreciate your prompt response and apologies for any inconvenience caused. Please let me know if there's anything else I can do for you.",True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support @AskAmex Your app is really broken. I have tried to use my $15 Amex  credit two times and it keeps charging my CC,FARE_CHARGED_WRONG,DRIVER_PROBLEM,False,"@Uber_Support @AskAmex Here's what happened to your credit card:
+
+1. First attempt: You tried to use your $15 Amex credit card twice, which kept charging your card.
+2. Second attempt: After successfully using the card twice, you received an email notification asking for a note to send to Uber Support. Please review your messages for our response.
+
+We are currently working on resolving this issue. Please be patient and contact us if you have any questions or need further assistance.",True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support how are Uber drivers suppose to contact someone if they have questions that aren’t specifically addressed in the app or online?,SUPPORT_CONTACT,CANCELLATION_FEE,False,"@743100 Dear @Uber_Support, We apologize for any inconvenience caused. Please visit this link https://t.co/balq3Eyso6 for our team to assist you. We are currently reviewing your email and will be in touch shortly. Thank you for bringing this to our attention.",True,The issue requires case-specific investigation or account/payment review.
+Wow. The cops pull my Uber over right when he pulls up,DRIVER_PROBLEM,DRIVER_PROBLEM,True,@115873 Thank you for sharing this experience. We are here to assist you. Please send us your driver's email address so we can connect you as soon as possible.,True,The issue requires case-specific investigation or account/payment review.
+@115873 Why do u your drivers always cancel on ppl?! What is the actual point in u?! Wish I could rate them before I’ve had a trip!! #Fumes,RIDE_PROBLEM,FARE_CHARGED_WRONG,False,"@115873, thank you for your feedback. Please proceed with your next ride. If you have any issues or concerns, feel free to reach out to the support team. We are here to assist you with your next Uber ride. Let us know if there are any further details you would like to discuss.",True,The issue requires case-specific investigation or account/payment review.
+"@Uber_Support Such a rubbish Customer support. I am unable to use paytm or any card with uber without any reason and they are saying, we cant do anything. Pay by cash. What the hell is wrong with u guys.",FARE_CHARGED_WRONG,SUPPORT_CONTACT,False,"@Uber_Support, I'm very sorry to hear about the issues with your Uber experience. I've provided a quick, factual response to help you resolve the problem. Please feel free to reach out to the support team for any additional assistance or questions.",False,The issue appears suitable for an automated first response.
+@115873 I just wanted to let you know that your Chicago driver Charnessa saved me this morning from a man following me and pressuring me to go to the ATM with him. Pls give her a huge hug for me.,DRIVER_PROBLEM,DRIVER_PROBLEM,True,Hi there! I'm really sorry about the inconvenience. I'll text the driver to let her know. Thanks! 😊,True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support I recently had spinal surgery &amp; use Uber travel to off.'ll b grt if u gimme flat ₹100 coupon rides so tht I can afford physio,PROMO_DISCOUNT,PROMO_DISCOUNT,True,"@727756 Thank you for sharing your story. We apologize for any inconvenience caused. Our priority is to ensure that our users receive satisfactory experiences. If you have any other questions or concerns, feel free to contact us via our dedicated support channel or via our website.",False,The issue appears suitable for an automated first response.
+@115873 bad service,SUPPORT_CONTACT,SUPPORT_CONTACT,True,"@115873, thank you for reaching out. I will do my best to help. Could you please provide me with more details about your complaint?",False,The issue appears suitable for an automated first response.
+"@11590 @Uber_Support
+your services are going down the drains with each passing day
+Horrible experience
+Drivers can stop the trip midway",DRIVER_PROBLEM,SUPPORT_CONTACT,False,"Hello, I hope this message finds you well. I am an Uber customer and I have had a very poor experience with the service. I have encountered a few issues and would like to report them to Uber Support.
+
+Firstly, the time limits for trip changes have been reached. If you are unable to complete a trip midway, the driver should stop the trip. This can cause inconvenience and frustration for both the driver and the passenger. Uber Support can assist you in ensuring that the service continues as expected.
+
+Secondly, the drivers have not been following the usual process for ending a trip. You should contact the driver and request them to stop the trip midway. This ensures that the driver is aware of the new requirements and will be more efficient in providing service.
+
+Lastly, Uber Support is here to assist you. Please DM us with your email address associated with your account and send us the trip details. We will look into the issue and provide a solution.
+
+Thank you for your understanding. We hope to have a good experience with Uber in the future.
+
+Best regards,
+[Your Name]",False,The issue appears suitable for an automated first response.
+@Uber_Support Uber voids your gift card and makes u fight to prove u had one #uber sucks,FARE_CHARGED_WRONG,REFUND_REQUEST,False,"@712159 
+We see your outreach and a member of our team will be following up via email as soon as possible. We appreciate your patience.",True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support And your team STILL hasn't figured it out. I told them to delete my partner portal.,LOGIN_ACCOUNT_ACCESS,REFUND_REQUEST,False,"Hello, thank you for reaching out to us. I'm here to help. To clarify, could you please provide me with the details of the issue you're experiencing? I'd like to know your partner portal, your current partner portal status, and any other relevant information so we can assist you better.",True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support any update on my laptop? How can I reach the holding center in New Orleans?,LOST_ITEM,SUPPORT_CONTACT,False,"@538024 Hi, Elizabeth. We're sorry to hear about your laptop, but we're just reaching out to check on your query. We will follow up with more information soon.",False,The issue appears suitable for an automated first response.
+"So @115873 driver arrives, sees that I need to go to Manhattan. Says he doesn't want to go to Manhattan so drives off. Lovely. @Uber_Support",DRIVER_PROBLEM,DRIVER_PROBLEM,True,"Dear @115873,
+
+Thank you for your prompt response. I understand that your driver is encountering issues with the route from Manhattan to Brooklyn, and I will escalate the issue to our team for further resolution.
+
+Please let us know if you need any additional assistance or if there are any specific questions you would like to discuss.
+
+Best regards,  
+[Your Name]",True,The issue requires case-specific investigation or account/payment review.
+"@Uber_Support 
+I have problems registering???",LOGIN_ACCOUNT_ACCESS,RIDE_PROBLEM,False,"@772585
+Hello! I'm here to help you with your registration. Please send me a note at https://t.co/zUe0dj6yoX so we can get in touch.",False,The issue appears suitable for an automated first response.
+@115873 I Need Help ! My App isn’t working for nothing. I have a gift card and a working card on my account. Still not working,APP_PROBLEM,SUPPORT_CONTACT,False,"@115873, I'm sorry to hear about your problem with the app. Please provide me with the details so that we can assist you further.",False,The issue appears suitable for an automated first response.
+@115873  my disabled son was pushed from the car last night 3 blocks from his house . How do I call you to report !!!!,DRIVER_PROBLEM,FARE_CHARGED_WRONG,False,"Hello @115873,
+
+Thank you for reaching out to us about your experience. I will do everything I can to assist you.
+
+Please send us a DM with your email address so we can connect. If you need any further assistance, please feel free to reach out.
+
+Best regards,  
+The Uber Customer Support Team",True,The issue requires case-specific investigation or account/payment review.
+@116276 @115873 No you do not stand with the drivers stop lying,DRIVER_PROBLEM,DRIVER_PROBLEM,True,"@116276, @115873, thank you for reaching out. I'm here to assist you. Please share more details so we can help you with your concerns.",True,The issue requires case-specific investigation or account/payment review.
+"@Uber_Support Hey, I'm in Orlando and just logged in to my Uber.
+I live  in the U.K. Is there extra charges for using my account in the U.S?",FARE_CHARGED_WRONG,FARE_CHARGED_WRONG,True,"Hello! Thank you for contacting Uber Support. I'm currently in Orlando, but we live in the U.K. I'll need to contact Uber Support to confirm if there are any extra charges for using my account in the U.S.",True,The issue requires case-specific investigation or account/payment review.
+Poor @115873 experience. Pre booked for 615 am for airport...no driver detail till 615. Took another cab. uber driver calls at 616 n shouts😡,RIDE_PROBLEM,CANCELLATION_FEE,False,"@115873, we would like to apologize for the inconvenience caused. Could you please provide more details about the issue? Thank you.",True,The issue requires case-specific investigation or account/payment review.
+Horrible customer service continues @Uber_Support  impossible for a driver to get any help,SUPPORT_CONTACT,SUPPORT_CONTACT,True,"@Uber_Support, I hope this message finds you well. I'm reaching out to you about the poor customer service experience you're experiencing at @Uber_Support. I understand how frustrating it can be, and I'm here to assist you. Could you please provide me with more details about the specific issue you're facing? What was the problem, and what actions have you already taken? Once I have more information, I'll be able to better help you resolve the issue. Thank you for your patience and for taking the time to communicate with us.",False,The issue appears suitable for an automated first response.
+@Uber_Support Looks like I have been overcharged on my uber ride. How do I fix this?,FARE_CHARGED_WRONG,FARE_CHARGED_WRONG,True,"@332159
+If you have any other questions or concerns about your Uber ride, feel free to let us know. We're here to help.",True,The issue requires case-specific investigation or account/payment review.
+@115877 ummm my order was wrong,UBER_EATS_ORDER,FARE_CHARGED_WRONG,False,"@115877, I apologize for the mistake in your order. I'm here to assist you. Can you please send us a note via this link so we can follow up? https://t.co/Tq0sPMsSdu.",True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support hello! I need to know why your app says I’m “banned” after I added my company card today.,LOGIN_ACCOUNT_ACCESS,REFUND_REQUEST,False,"Hello! I'm here to assist you with any questions or concerns you may have. To clarify, you need to know why your app is marking you as ""banned"" after adding your company card. Could you please send us your email address along with any additional details about the issue you're experiencing? We'll be glad to assist you further.",True,The issue requires case-specific investigation or account/payment review.
+Two @115873 drivers cancelled on me because I was going to Calabasas 👍🏽,RIDE_PROBLEM,SUPPORT_CONTACT,False,"@115873, I'm sorry to hear about the cancellation. We're here to help! Please send us a DM with your email address so we can follow up.",False,The issue appears suitable for an automated first response.
+"@115873 book a ride in KL, yet due to connction prob, it was disconnected but the ride was charge Without knowing with  RM5.",FARE_CHARGED_WRONG,FARE_CHARGED_WRONG,True,"@115873, I'm sorry to hear that you're having trouble with your ride. Here's a note we can send to your driver:
+
+https://t.co/1xM0TILvAI
+
+If you need any assistance, feel free to reach out to our support team. We're here to help!",True,The issue requires case-specific investigation or account/payment review.
+@131847 @Uber_Support You charged me 17GHS more because you fucked up trip route. This isn’t how we traveled. Can I get my money back? https://t.co/A3ydsFJkqa,FARE_CHARGED_WRONG,REFUND_REQUEST,False,"Hello! I'm here to assist you with your Uber trip. I understand you're dissatisfied with the trip route. To resolve this issue, we'll need to provide you with the details of the trip and your specific concerns. Could you please share the detailed details of your trip so we can discuss the route and address any discrepancies? If you'd prefer, we can also send you a note for your reference. Thank you for your patience and understanding.",True,The issue requires case-specific investigation or account/payment review.
+Funny how 2mins became 5 mins.... waiiiit for it.... became 6 mins and once again I’m charged for cancelling my @115873 https://t.co/HElurHBVX5,CANCELLATION_FEE,CANCELLATION_FEE,True,"@115873 @207058 Here to help, Kris! For more information on this, click here; https://t.co/sSyGYmOZHP. I hope you're feeling better now.",True,The issue requires case-specific investigation or account/payment review.
+"@Uber_Support Tried that too, it asks to sign up still. Provide an email so that I can connect to the team?",SUPPORT_CONTACT,REFUND_REQUEST,False,@394701 Thank you for reaching out to us. Please provide your email address so we can connect you to the team.,True,The issue requires case-specific investigation or account/payment review.
+"@115877 And counting ... et impossible de cancel via L’Appli : il faut téléphoner, mais personne ne répond au téléphone 🙌 https://t.co/V5ZjeDhnzV",UBER_EATS_ORDER,CANCELLATION_FEE,False,"@115877, j'espère que vous allez bien. Nous ne sommes pas en mesure de vous aider avec l'interception des chèques ou des paiements en ligne. Veuillez contacter le service client Uber pour obtenir des informations sur la manière de nous contacter. Nous sommes ravi de vous aider. 👍",True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support Drop done 150m from original destination. Charged 100 extra and that too in pool. Is development team fine? #Pathetic,FARE_CHARGED_WRONG,DRIVER_PROBLEM,False,"@Uber_Support Drop done 150m from original destination. Charged 100 extra and that too in pool. Is development team fine? #Pathetic. Dear customer, I am here to help. Please, try to provide detailed information. If you are experiencing issues with the service, you can contact us via our support team for further assistance. Thank you. #Support#CustomerService",True,The issue requires case-specific investigation or account/payment review.
+@115873 I'm guessing my Uber driver with a tfl licence isn't licensed in Southampton... As he doesn't have the correct carriage licence??,DRIVER_PROBLEM,CANCELLATION_FEE,False,"Dear @115873, thank you for reaching out to us. I've analyzed your message and will be in touch with you regarding your Uber driver. I have already provided you with the information you requested from the Uber support team.
+
+If you have any further questions or need assistance in the future, please don't hesitate to contact us. We are here to help.",True,The issue requires case-specific investigation or account/payment review.
+"@Uber_Support line number nor any email spec where i can mail them the issue and yea last but not the least i even got a bag as well ,but still can't find use of it as i cant login still ... 
+Requesting to work on it Soon . thanks Uber partner Name: Ravinder Kumar Sharma",LOGIN_ACCOUNT_ACCESS,REFUND_REQUEST,False,"Hello @Uber_Support,
+
+Thank you for reaching out to us. I appreciate your patience and for following up. I am now working on the issue and will provide you with a resolution as soon as possible. I have already received the bag and can confirm that I have access to it. 
+
+Would you please let me know if you require any additional information or if I can assist you further?
+
+Best regards,
+Ravinder Kumar Sharma",True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support I cannot get into the account because someone else has named Rmsad Khsad has used my email and cell number,ACCOUNT_HACKED,RIDE_PROBLEM,False,"@Uber_Support, I apologize for the inconvenience. Unfortunately, I'm unable to provide immediate assistance with your account issues. Please provide me with the email address and cell number that you used to sign up for Uber. We'll then assist you in contacting the appropriate support team. Thank you for your patience and understanding.",False,The issue appears suitable for an automated first response.
+@Uber_Support Is this acceptable... https://t.co/4iwh623XG8,DRIVER_PROBLEM,REFUND_REQUEST,False,"Hello, I'm @Uber_Support. I understand this is an issue with your trip. Can you please provide me with the details of the fare for this trip? Also, could you please let me know if this is a previous issue you have had with Uber, so I can assist you better?",True,The issue requires case-specific investigation or account/payment review.
+Can't wait to see the final route this @Uber_Support takes to my dentist. Gonna be late because I'm in Dupont all of a sudden.,RIDE_PROBLEM,DRIVER_PROBLEM,False,"@266485 @182289 Hi, Laina. We have located your support inquiry and have requested that a member of our team follow up with you as soon as possible. Please see that message for further details.",True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support So no one is going to respond.. Okay.,SUPPORT_CONTACT,REFUND_REQUEST,False,"@129058  
+We've been in touch via DM. Please send us your email address so we can connect.",True,The issue requires case-specific investigation or account/payment review.
+Have to love when @115873 @Uber_Support pays you for a ride then pulls it back to process it. #uber,FARE_CHARGED_WRONG,DRIVER_PROBLEM,False,Hello! Thank you for reaching out to us about our services. We appreciate your feedback and are committed to addressing your concerns. Please let us know if there is anything specific that you would like us to discuss or if you need any assistance.,True,The issue requires case-specific investigation or account/payment review.
+@Uber_Support hi signed up last week haven't heard back.  Is there anything else needed?,SUPPORT_CONTACT,CANCELLATION_FEE,False,"@218398 We've been in touch via DM, Joe. Please keep an eye out for our response.",True,The issue requires case-specific investigation or account/payment review.
+I was running late so I ordered an @115873 and now I’m running even more late than if I had just taken the CTA.,RIDE_PROBLEM,REFUND_REQUEST,False,"@115873, we apologize for the inconvenience. Please let us know if there's anything we can do to make things right.",True,The issue requires case-specific investigation or account/payment review.
